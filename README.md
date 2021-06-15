@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on ideas for a game title
 - 📫 How to reach me: 
 
-- Gmail - arviw@iktfag.com  
+- Gmail - arvidw@iktfag.com  
 - Discord - Bass_Gamer#6969
