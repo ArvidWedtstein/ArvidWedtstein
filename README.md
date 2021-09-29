@@ -5,11 +5,9 @@
 <h5 align="center">👀 I’m interested in Game Development, 3D modelling, 3D printing, Webdevelopment</h5>
 <h2 align="center">📫 How to reach me: </h6>
 <ol align="center">
-  <li align="center">Email - arvidw0310@gmail.com</li>
+  <li align="center">Email - <arvidw0310@gmail.com></li>
   <li align="center" style="color: #ff0000;">Discord - Bass_Gamer#7447</li>
+  <li align="center"On my website - <https://arvidw.space>
 </ol>
-[Email](mailto:arvidw0310@gmail.com?subject=Hi% "Hi!")
-[Website](https://arvidw.space/Contact "Welcome")
-
 
 
