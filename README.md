@@ -1,4 +1,4 @@
-
+[Contact](#contact)
 <h1 align="center">Well, hello there. I'm @ArvidWedtstein</h1>
 <h5 align="center">🌱 I’m currently learning C#, PHP, Nuxt, Vue</h2>
 
@@ -7,7 +7,14 @@
 <ol align="center">
   <li align="center">Email - arvidw0310@gmail.com</li>
   <li align="center">Discord - Bass_Gamer#7447</li>
-  <li align="center">On my website - https://arvidw.space</li>
+  <li align="center"><a href="https://arvidw.space">On my website</a></li>
 </ol>
+
+
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
