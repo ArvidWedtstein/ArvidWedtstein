@@ -17,4 +17,5 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidWedtstein&theme=blue-red)
 
+Here is a random joke..
 ![Jokes Card](https://readme-jokes.vercel.app/api)
