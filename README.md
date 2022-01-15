@@ -16,8 +16,9 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&theme=dracula)
 
 ![Ys](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=dracula)
-![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
+
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/arvidwedtstein/Nuxt-Website)
+##
+![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ArvidWedtstein/DiscordBotArvid)
