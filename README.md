@@ -21,4 +21,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ##
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ArvidWedtstein/DiscordBotArvid)
+
