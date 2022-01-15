@@ -13,7 +13,7 @@
   <li align="center"><a href="https://arvidw.space">On my website</a></li>
 </ol>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=w1ll1aming&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=arvidwedtstein&show_icons=true)
 
 
 
