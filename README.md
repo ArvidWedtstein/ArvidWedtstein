@@ -16,4 +16,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true)
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidWedtstein&theme=blue-red)
-[![stats](https://github-readme-stats.vercel.app/api/wakatime?username=arvidwedtstein)]
+
