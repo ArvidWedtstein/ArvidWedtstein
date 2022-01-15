@@ -18,7 +18,7 @@
 ![Ys](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=dracula)
 
 ## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api&theme=dracula)
 ##
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
 
