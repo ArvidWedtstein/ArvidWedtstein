@@ -13,9 +13,9 @@
   <li align="center"><a href="https://arvidw.space">On my website (not anymore)</a></li>
 </ol>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&theme=dark)
 
-![Ys](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=dracula)
+![Ys](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=dark)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
