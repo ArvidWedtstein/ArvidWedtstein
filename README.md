@@ -15,7 +15,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true)
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidWedtstein&theme=radical&hide=c++,c)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidWedtstein&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
