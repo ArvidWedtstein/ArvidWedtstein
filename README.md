@@ -15,7 +15,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
-![Ys](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&bg_color=30,#ff0000,#000000)
+![Ys](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=synthwave)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
