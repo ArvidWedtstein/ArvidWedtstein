@@ -3,7 +3,7 @@
 <h5 align="center">🌱 I’m currently learning C# and a bunch of other stuff</h2>
 
 <h5 align="center">👀 I’m interested in Game Development, 3D modelling, 3D printing, Webdevelopment</h5>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=arvidwedtstein&show_icons=true)
+
 
 <h2 align="center">📫 How to reach me: </h6>
 <ol align="center">
