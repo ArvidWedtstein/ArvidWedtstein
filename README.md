@@ -10,7 +10,7 @@
   <li align="center">Email - arvidw0310@gmail.com</li>
   <li align="center">EmailV2 - spamarvid0310@gmail.com</li>
   <li align="center">Discord - ArvidW#7447</li>
-  <li align="center"><a href="https://arvidw.space">On my website (not anymore)</a></li>
+  <li align="center"><a href="https://nuxtarvidw.netlify.app">On my website (not anymore)</a></li>
 </ol>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&theme=dark)
