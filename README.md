@@ -7,15 +7,12 @@
 <img width="15"src="icons/nuxt.png" /> Nuxt<br>
 <img width="15"src="icons/typescript.png" /> TypeScript<br>
 <img width="15"src="icons/php.png" /> PHP<br>
+<img width="15"src="icons/wordpress.png" /> Wordpress<br>
+<img width="15"src="icons/docker.png" /> Docker<br>
+<img width="15"src="icons/csharp.png" /> C#<br>
+<img width="15"src="icons/tailwind.png" /> TailwindCSS<br>
+And a bunch of other stuff
 </blockquote>
-<blockquote><img width="15"src="icons/typescript.png" /> TypeScript</blockquote>
-<blockquote><img width="15"src="icons/php.png" /> PHP</blockquote>
-<blockquote><img width="15"src="icons/wordpress.png" /> Wordpress</blockquote>
-<blockquote><img width="15"src="icons/docker.png" /> Docker</blockquote>
-<blockquote><img width="15"src="icons/csharp.png" /> C#</blockquote>
-<blockquote><img width="15"src="icons/tailwind.png" /> TailwindCSS</blockquote>
-<blockquote>And a bunch of other stuff</blockquote>
-
 
 
 
