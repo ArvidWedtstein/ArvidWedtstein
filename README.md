@@ -8,7 +8,7 @@
 <h2 align="center">📫 How to reach me: </h6>
 <ol align="center">
   <li align="center">Email - arvidw0310@gmail.com</li>
-  <li align="center">EmailV2 - spamarvid0310@gmail.com</li>
+  <li align="center">EmailV2 - spamarvid0310@gmail.com (Longer response time)</li>
   <li align="center">Discord - ArvidW#7447</li>
   <li align="center"><a href="https://nuxtarvidw.netlify.app">On my website (not anymore)</a></li>
 </ol>
