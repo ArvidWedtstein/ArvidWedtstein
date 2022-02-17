@@ -23,7 +23,7 @@
 
 
 
-#### 👀 I’m interested in:
+<h2 align="center">👀 I’m interested in:</h2>
 <blockquote align="center">
   Web Development<br>
   3D Printing<br>
@@ -88,8 +88,8 @@
   </a>
 </p> -->
 
-## 😂 Random joke
+</h4>😂 Random joke</h4>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-##
+<h4></h4>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
 
