@@ -1,7 +1,13 @@
 
 <h1 align="center">Hei hei. Jeg er @ArvidWedtstein</h1>
 
-
+<table align="center">
+  <tr>
+    <td><a href="README.md">English</a></td>
+    <td><b><u><a href="README_no.md">Norwegian</a></b></u></td>
+    <td><a href="README_de.md">German</a></td>
+  </tr>
+</table>
 
 <h2 align="center">🌱 Jeg lærer for tiden:</h2>
 <blockquote align="center">
@@ -15,13 +21,6 @@
   og mye annet.
 </blockquote>
 
-<table align="right">
-  <tr>
-    <td><a href="README.md">English</a></td>
-    <td><blockquote><a href="README_no.md">Norwegian</a></blockquote></td>
-    <td><a href="README_de.md">German</a></td>
-  </tr>
-</table>
 
 #### 👀 I’m interested in:
 <blockquote align="center">
