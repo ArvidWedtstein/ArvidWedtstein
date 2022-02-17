@@ -1,11 +1,6 @@
 
 <h1 align="center">Hallo. Ich bin @ArvidWedtstein</h1>
 
-<table align="right">
- <tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="README_no.md">Norwegian</a></td></tr>
- <tr><td><blockquote><a href="README_de.md">German</a></blockquote></td></tr>
-</table>
 
 <h2 align="center">🌱 Ich lerne zur zeit:</h2>
 <blockquote align="center">
@@ -19,7 +14,13 @@
   und vieles mehr
 </blockquote>
 
-
+<table align="right">
+  <tr>
+    <td><a href="README.md">English</a></td>
+    <td><a href="README_no.md">Norwegian</a></td>
+    <td><blockquote><a href="README_de.md">German</a></blockquote></td>
+  </tr>
+</table>
 
 #### 👀 Ich habe interesse für:
 <blockquote align="center">

@@ -1,10 +1,12 @@
 
 <h1 align="center">Well, hello there. I'm @ArvidWedtstein</h1>
 
-<table align="right">
- <tr><td><blockquote><a href="README.md">English</a></blockquote></td></tr>
- <tr><td><a href="README_no.md">Norwegian</a></td></tr>
- <tr><td><a href="README_de.md">German</a></td></tr>
+<table align="center">
+  <tr>
+    <td><blockquote><a href="README.md">English</a></blockquote></td>
+    <td><a href="README_no.md">Norwegian</a></td>
+    <td><a href="README_de.md">German</a></td>
+  </tr>
 </table>
 
 <h2 align="center">🌱 I am currently learning:</h2>
