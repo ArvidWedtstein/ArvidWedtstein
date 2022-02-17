@@ -2,34 +2,18 @@
 <h1 align="center">Well, hello there. I'm @ArvidWedtstein</h1>
 
 🌱 I am currently learning:
-> Vue/Nuxt
-> 
-> Typescript
-> 
-> PHP
-> 
-> And a bunch of other stuff
-> 
-> TailwindCSS
-> 
-> 
 
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+<blockquote><img width="15"src="icons/nuxt.png" /> Nuxt</blockquote>
+<blockquote><img width="15"src="icons/typescript.png" /> TypeScript</blockquote>
+<blockquote><img width="15"src="icons/php.png" /> PHP</blockquote>
+<blockquote><img width="15"src="icons/wordpress.png" /> Wordpress</blockquote>
+<blockquote><img width="15"src="icons/docker.png" /> Docker</blockquote>
+<blockquote><img width="15"src="icons/csharp.png" /> C#</blockquote>
+<blockquote><img width="15"src="icons/tailwind.png" /> TailwindCSS</blockquote>
+<blockquote>And a bunch of other stuff</blockquote>
+
+
+
 
 #### 👀 I’m interested in:
 > Web Development
@@ -37,7 +21,7 @@
 > 3D Modelling
 > 
 > 3D Printing
-> 
+>
 > new technology
 
 <h2 align="center">📫 How to reach me: </h6>
@@ -61,26 +45,30 @@
 
 <table align="center">
   <tr>
-    <td>
-      Portfolio
-    </td>
-    <td>
-      Portfolio
-    </td>
+    <th>Name</th>
+    <th><a href="https://github.com/ArvidWedtstein/Nuxt-Website">Portfolio</a></th>
+    <th><a href="https://github.com/ArvidWedtstein/Website-API">Portfolio API</a></th>
+    <th><a href="https://github.com/appex/appex-tournaments">Appex Tournament App</a></th>
+    <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
   </tr>
   <tr>
-    <td>
-      Portfolio
-    </td>
-    <td>
-      Portfolio
-    </td>
+    <th>Description</th>
+    <td>My portfolio. Lists all my projects and tells a little bit about me</td>
+    <td>Express API for handling projects, reviews and userdata on my portfolio</td>
+    <td>Tournament Bracket App for Appex. Lets you create tournaments.</td>
+    <td>Upgrading my old discordbot to DiscordJSV13 since discord shut down the DiscordJS-Commando Framework</td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td>Nuxt, Vue, JS</td>
+    <td>JS, MongoDB Database</td>
+    <td>C#/DotNet for backend API, Nuxt 3 for frontend, MongoDB Database</td>
+    <td>JavaScript. (Converting to TypeScript</td>
   </tr>
 </table>
 
-~~The quick brown fox jumps over the lazy dog.~~
 
-## 😂 Here is a random joke that'll make you laugh!
+## 😂 Random joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ##
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
