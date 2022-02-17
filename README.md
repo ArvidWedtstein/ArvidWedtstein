@@ -1,8 +1,14 @@
 
 <h1 align="center">Well, hello there. I'm @ArvidWedtstein</h1>
-<h5 align="left">🌱 I’m currently learning:</h2>
-<h6 align="center">> C#,  and a bunch of other stuff</h6>
-
+<h5 align="center">🌱 I’m currently learning: C#,  and a bunch of other stuff</h2>
+<ul align="center">
+  <li>C#</li>
+</ul>
+```javascript
+function test() {
+ console.log("look ma`, no spaces");
+}
+```
 <h5 align="center">👀 I’m interested in Game Development, 3D modelling, 3D printing, Webdevelopment</h5>
 
 
