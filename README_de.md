@@ -1,13 +1,13 @@
 
-<h1 align="center">Well, hello there. I'm @ArvidWedtstein</h1>
+<h1 align="center">Hallo. Ich bin @ArvidWedtstein</h1>
 
 <table align="right">
- <tr><td><blockquote><a href="README.md">English</a></blockquote></td></tr>
+ <tr><td><a href="README.md">English</a></td></tr>
  <tr><td><a href="README_no.md">Norwegian</a></td></tr>
- <tr><td><a href="README_de.md">German</a></td></tr>
+ <tr><td><blockquote><a href="README_de.md">German</a></blockquote></td></tr>
 </table>
 
-<h2 align="center">🌱 I am currently learning:</h2>
+<h2 align="center">🌱 Ich lerne zur zeit:</h2>
 <blockquote align="center">
   <img width="15"src="icons/nuxt.png" /> Nuxt<br>
   <img width="15"src="icons/typescript.png" /> TypeScript<br>
@@ -16,37 +16,37 @@
   <img width="15"src="icons/docker.png" /> Docker<br>
   <img width="15"src="icons/csharp.png" /> C#<br>
   <img width="15"src="icons/tailwind.png" /> TailwindCSS<br>
-  And a bunch of other stuff
+  und vieles mehr
 </blockquote>
 
 
 
-#### 👀 I’m interested in:
+#### 👀 Ich habe interesse für:
 <blockquote align="center">
-  Web Development<br>
-  3D Printing<br>
-  3D Modelling<br>
-  new technology<br>
+  Web entwicklung<br>
+  3D drucken<br>
+  3D modellierung<br>
+  neue technologie<br>
 </blockquote>
 
 
-<h2 align="center">📫 How to reach me: </h6>
+<h2 align="center">📫 Sie können mich erreichen über: </h6>
 <ul align="center">
   <li align="center">Email - arvidw0310@gmail.com</li>
-  <li align="center">EmailV2 - spamarvid0310@gmail.com (Longer response time)</li>
-  <li align="center"><a href="https://nuxtarvidw.netlify.app">On my website (not anymore)</a></li>
+  <li align="center">EmailV2 - spamarvid0310@gmail.com (Längere antworte zeit)</li>
+  <li align="center"><a href="https://nuxtarvidw.netlify.app">Auf meiner website (zür zeit nicht möglich)</a></li>
 </ul>
 
 
 
-<h2 align="center">Some stats about me</h2>
+<h2 align="center">Ein paar daten über mich:</h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&theme=dark)
 
 ![Ys](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=dark)
 
 
-<h2 align="center">My current projects</h2>
+<h2 align="center">Meine Projecte</h2>
 
 <table align="center">
   <tr>
@@ -58,19 +58,19 @@
     <th><a href="https://github.com/ArvidWedtstein/Devco">Wordpress Template</a></th>
   </tr>
   <tr>
-    <th>Description</th>
-    <td>My portfolio. Lists all my projects and tells a little bit about me</td>
-    <td>Express API for handling projects, reviews and userdata on my portfolio</td>
-    <td>Tournament Bracket App for Appex. Lets you create tournaments.</td>
-    <td>Upgrading my old discordbot to DiscordJSV13 since discord shut down the DiscordJS-Commando Framework</td>
-    <td>Wordpress template for school project</td>
+    <th>Beschreibung</th>
+    <td>Mein portfolio. Listet alle meine Projekte auf und erzählt ein wenig über mich</td>
+    <td>Express API für handling von projecten, reviews und benutzerdaten in meinem portfolio</td>
+    <td>Tournament Bracket App für Appex.</td>
+    <td>Upgrade meines alten Discordbot auf DiscordJSV13, da Discord das DiscordJS-Commando Framework heruntergefahren hat</td>
+    <td>Wordpress template für ein Schul Project</td>
   </tr>
   <tr>
-    <th>Languages</th>
+    <th>Sprachen</th>
     <td>Nuxt, Vue, JS</td>
     <td>JS, MongoDB Database</td>
-    <td>C#/DotNet for backend API, Nuxt 3 for frontend, MongoDB Database</td>
-    <td>JavaScript. (Converting to TypeScript)</td>
+    <td>C#/DotNet für backend API, Nuxt 3 für frontend, MongoDB Database</td>
+    <td>JavaScript. (Wird konvertiert zu TypeScript)</td>
     <td>PHP</td>
   </tr>
 </table>
@@ -86,7 +86,7 @@
   </a>
 </p> -->
 
-## 😂 Random joke
+## 😂 Zufälliger joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ##
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)

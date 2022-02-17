@@ -1,13 +1,14 @@
 
-<h1 align="center">Well, hello there. I'm @ArvidWedtstein</h1>
+<h1 align="center">Hei hei. Jeg er @ArvidWedtstein</h1>
 
 <table align="right">
- <tr><td><blockquote><a href="README.md">English</a></blockquote></td></tr>
- <tr><td><a href="README_no.md">Norwegian</a></td></tr>
+ <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><blockquote><a href="README_no.md">Norwegian</a></blockquote></td></tr>
  <tr><td><a href="README_de.md">German</a></td></tr>
 </table>
 
-<h2 align="center">🌱 I am currently learning:</h2>
+
+<h2 align="center">🌱 Jeg lærer for tiden:</h2>
 <blockquote align="center">
   <img width="15"src="icons/nuxt.png" /> Nuxt<br>
   <img width="15"src="icons/typescript.png" /> TypeScript<br>
@@ -16,21 +17,21 @@
   <img width="15"src="icons/docker.png" /> Docker<br>
   <img width="15"src="icons/csharp.png" /> C#<br>
   <img width="15"src="icons/tailwind.png" /> TailwindCSS<br>
-  And a bunch of other stuff
+  og mye annet.
 </blockquote>
 
 
 
 #### 👀 I’m interested in:
 <blockquote align="center">
-  Web Development<br>
+  Web Utvikling<br>
   3D Printing<br>
   3D Modelling<br>
-  new technology<br>
+  ny teknologi<br>
 </blockquote>
 
 
-<h2 align="center">📫 How to reach me: </h6>
+<h2 align="center">📫 Du kan komme i kontakt med meg på: </h6>
 <ul align="center">
   <li align="center">Email - arvidw0310@gmail.com</li>
   <li align="center">EmailV2 - spamarvid0310@gmail.com (Longer response time)</li>
@@ -39,18 +40,18 @@
 
 
 
-<h2 align="center">Some stats about me</h2>
+<h2 align="center">Noen data om meg</h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&theme=dark)
 
 ![Ys](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=dark)
 
 
-<h2 align="center">My current projects</h2>
+<h2 align="center">Mine prosjekter</h2>
 
 <table align="center">
   <tr>
-    <th>Name</th>
+    <th>Navn</th>
     <th><a href="https://github.com/ArvidWedtstein/Nuxt-Website">Portfolio</a></th>
     <th><a href="https://github.com/ArvidWedtstein/Website-API">Portfolio API</a></th>
     <th><a href="https://github.com/appex/appex-tournaments">Appex Tournament App</a></th>
@@ -58,19 +59,19 @@
     <th><a href="https://github.com/ArvidWedtstein/Devco">Wordpress Template</a></th>
   </tr>
   <tr>
-    <th>Description</th>
-    <td>My portfolio. Lists all my projects and tells a little bit about me</td>
-    <td>Express API for handling projects, reviews and userdata on my portfolio</td>
-    <td>Tournament Bracket App for Appex. Lets you create tournaments.</td>
-    <td>Upgrading my old discordbot to DiscordJSV13 since discord shut down the DiscordJS-Commando Framework</td>
-    <td>Wordpress template for school project</td>
+    <th>Beskrivelse</th>
+    <td>Min portfolio. Gir en oversikt over alle mine prosjekter og forteller litt om meg</td>
+    <td>Express API for å holde styr på prosjekter, omtaler og brukerdata på min portfolio</td>
+    <td>Tournament Bracket App for Appex. Lar deg opprette turneringer.</td>
+    <td>Oppgraderer min gamle discordbot til DiscordJSV13 siden discord stengte av DiscordJS-Commando Framework</td>
+    <td>Wordpress template til et skoleprosjekt</td>
   </tr>
   <tr>
-    <th>Languages</th>
+    <th>Språk</th>
     <td>Nuxt, Vue, JS</td>
     <td>JS, MongoDB Database</td>
     <td>C#/DotNet for backend API, Nuxt 3 for frontend, MongoDB Database</td>
-    <td>JavaScript. (Converting to TypeScript)</td>
+    <td>JavaScript. (Konverteres til TypeScript)</td>
     <td>PHP</td>
   </tr>
 </table>
