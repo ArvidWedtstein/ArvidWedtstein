@@ -34,8 +34,8 @@
 <h2 align="center">📫 Du kan komme i kontakt med meg på: </h6>
 <ul align="center">
   <li align="center">Email - arvidw0310@gmail.com</li>
-  <li align="center">EmailV2 - spamarvid0310@gmail.com (Longer response time)</li>
-  <li align="center"><a href="https://nuxtarvidw.netlify.app">On my website (not anymore)</a></li>
+  <li align="center">EmailV2 - spamarvid0310@gmail.com (tar lengre tid før du får svar)</li>
+  <li align="center"><a href="https://nuxtarvidw.netlify.app">On my website (kontaktside ute av drift for tiden)</a></li>
 </ul>
 
 
