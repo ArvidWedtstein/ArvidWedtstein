@@ -4,26 +4,26 @@
 🌱 I am currently learning:
 
 <blockquote>
-<img width="15"src="icons/nuxt.png" /> Nuxt<br>
-<img width="15"src="icons/typescript.png" /> TypeScript<br>
-<img width="15"src="icons/php.png" /> PHP<br>
-<img width="15"src="icons/wordpress.png" /> Wordpress<br>
-<img width="15"src="icons/docker.png" /> Docker<br>
-<img width="15"src="icons/csharp.png" /> C#<br>
-<img width="15"src="icons/tailwind.png" /> TailwindCSS<br>
-And a bunch of other stuff
+  <img width="15"src="icons/nuxt.png" /> Nuxt<br>
+  <img width="15"src="icons/typescript.png" /> TypeScript<br>
+  <img width="15"src="icons/php.png" /> PHP<br>
+  <img width="15"src="icons/wordpress.png" /> Wordpress<br>
+  <img width="15"src="icons/docker.png" /> Docker<br>
+  <img width="15"src="icons/csharp.png" /> C#<br>
+  <img width="15"src="icons/tailwind.png" /> TailwindCSS<br>
+  And a bunch of other stuff
 </blockquote>
 
 
 
 #### 👀 I’m interested in:
-> Web Development
-> 
-> 3D Modelling
-> 
-> 3D Printing
->
-> new technology
+<blockquote>
+  Web Development<br>
+  3D Printing<br>
+  3D Modelling<br>
+  new technology<br>
+</blockquote>
+
 
 <h2 align="center">📫 How to reach me: </h6>
 <ul align="center">
