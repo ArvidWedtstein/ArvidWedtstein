@@ -35,7 +35,7 @@
 <ul align="center">
   <li align="center">Email - arvidw0310@gmail.com</li>
   <li align="center">EmailV2 - spamarvid0310@gmail.com (tar lengre tid før du får svar)</li>
-  <li align="center"><a href="https://nuxtarvidw.netlify.app">On my website (kontaktside ute av drift for tiden)</a></li>
+  <li align="center"><a href="https://nuxtarvidw.netlify.app">På min website (kontaktside ute av drift for tiden)</a></li>
 </ul>
 
 
@@ -63,7 +63,7 @@
     <td>Min portfolio. Gir en oversikt over alle mine prosjekter og forteller litt om meg</td>
     <td>Express API for å holde styr på prosjekter, omtaler og brukerdata på min portfolio</td>
     <td>Tournament Bracket App for Appex. Lar deg opprette turneringer.</td>
-    <td>Oppgraderer min gamle discordbot til DiscordJSV13 siden discord stengte av DiscordJS-Commando Framework</td>
+    <td>Oppgraderer min gamle discordbot til DiscordJSV13 siden discord stengte av DiscordJS-Commando Frameworket</td>
     <td>Wordpress template til et skoleprosjekt</td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@
   </a>
 </p> -->
 
-## 😂 Random joke
+## 😂 Tilfeldig joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ##
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
