@@ -3,7 +3,11 @@
 
 🌱 I am currently learning:
 
-<blockquote><img width="15"src="icons/nuxt.png" /> Nuxt</blockquote>
+<blockquote>
+<img width="15"src="icons/nuxt.png" /> Nuxt
+<img width="15"src="icons/typescript.png" /> TypeScript
+<img width="15"src="icons/php.png" /> PHP
+</blockquote>
 <blockquote><img width="15"src="icons/typescript.png" /> TypeScript</blockquote>
 <blockquote><img width="15"src="icons/php.png" /> PHP</blockquote>
 <blockquote><img width="15"src="icons/wordpress.png" /> Wordpress</blockquote>
