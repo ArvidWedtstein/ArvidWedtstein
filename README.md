@@ -4,9 +4,9 @@
 🌱 I am currently learning:
 
 <blockquote>
-<img width="15"src="icons/nuxt.png" /> Nuxt
-<img width="15"src="icons/typescript.png" /> TypeScript
-<img width="15"src="icons/php.png" /> PHP
+<img width="15"src="icons/nuxt.png" /> Nuxt[space][space]
+<img width="15"src="icons/typescript.png" /> TypeScript[space][space]
+<img width="15"src="icons/php.png" /> PHP[space][space]
 </blockquote>
 <blockquote><img width="15"src="icons/typescript.png" /> TypeScript</blockquote>
 <blockquote><img width="15"src="icons/php.png" /> PHP</blockquote>
