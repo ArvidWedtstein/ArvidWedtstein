@@ -89,7 +89,9 @@
 </p> -->
 
 </h4>😂 Random joke</h4>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<h4></h4>
+
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
 
