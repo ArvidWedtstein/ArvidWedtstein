@@ -1,6 +1,8 @@
 
-<h1 align="center">Well, hello there. I'm @ArvidWedtstein</h1>
+<h1 align="center">Welcome to</h1>
+<img src="icons/arvid.svg">
 
+<h1></h1>
 <table align="center">
   <tr>
     <td><b><u><a href="README.md">English</a></b></u></td>

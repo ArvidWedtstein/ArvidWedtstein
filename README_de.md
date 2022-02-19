@@ -1,5 +1,7 @@
+<h1 align="center">Willkommen zu</h1>
+<img src="icons/arvid.svg">
 
-<h1 align="center">Hallo. Ich bin @ArvidWedtstein</h1>
+<h1></h1>
 
 <table align="center">
   <tr>

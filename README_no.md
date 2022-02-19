@@ -1,5 +1,8 @@
 
-<h1 align="center">Hei hei. Jeg er @ArvidWedtstein</h1>
+<h1 align="center">Velkommen til</h1>
+<img src="icons/arvid.svg">
+
+<h1></h1>
 
 <table align="center">
   <tr>
