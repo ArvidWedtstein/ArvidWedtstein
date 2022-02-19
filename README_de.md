@@ -13,6 +13,7 @@
 <blockquote align="center">
   <img width="15"src="icons/nuxt.png" /> Nuxt<br>
   <img width="15"src="icons/typescript.png" /> TypeScript<br>
+  <img width="15"src="icons/go.png" /> Go<br>
   <img width="15"src="icons/php.png" /> PHP<br>
   <img width="15"src="icons/wordpress.png" /> Wordpress<br>
   <img width="15"src="icons/docker.png" /> Docker<br>
