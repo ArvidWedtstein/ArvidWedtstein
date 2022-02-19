@@ -97,7 +97,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-![Test](https://githubembed.vercel.app/api/card?text1=test&text2=test2)
+![Jokes Card](https://githubembed.vercel.app/api/card?text1=test&text2=test2)
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
