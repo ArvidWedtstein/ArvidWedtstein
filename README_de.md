@@ -43,9 +43,9 @@
 
 <h2 align="center">Ein paar daten über mich:</h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&bg_color=30,dd3e54,ff5e62,ff9966&title_color=fff&text_color=fff)
 
-![Ys](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=dark)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=github_dark&langs_count=10&locale=de&hide_border=false&layout=compact&custom_title=Meine%20Meist%20Gebrauchten%20Sprachen&bg_color=30,dd3e54,ff5e62,ff9966&title_color=fff&text_color=fff&border_color=fff)
 
 
 <h2 align="center">Meine Projecte</h2>
