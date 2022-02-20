@@ -1,6 +1,6 @@
 
 <h1 align="center">Welcome to</h1>
-<img src="icons/arvid.svgs">
+<img src="icons/arvid.svg">
 
 <h1></h1>
 <table align="center">
