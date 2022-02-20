@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to</h1>
 <img src="icons/arvid.svg">
-<img src="https://githubembed.vercel.app/api/card">
+
 
 <h1></h1>
 <table align="center">
