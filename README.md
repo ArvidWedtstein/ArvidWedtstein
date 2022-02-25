@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to</h1>
 <img src="icons/arvid.svg">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)
+
 <h1></h1>
 <table align="center">
   <tr>
