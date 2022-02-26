@@ -22,6 +22,7 @@
   <img width="15"src="icons/docker.png" /> Docker<br>
   <img width="15"src="icons/csharp.png" /> C#<br>
   <img width="15"src="icons/tailwind.png" /> TailwindCSS<br>
+  <img width="15"src="" /> Transact-SQL<br>
   And a bunch of other stuff
 </blockquote>
 
