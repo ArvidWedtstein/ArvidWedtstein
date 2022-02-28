@@ -37,32 +37,28 @@
 <text x="20" y="35" class="title">Skills</text>
 <g class="repobox" onmouseenter="skill_hover(evt)" title="php" transform="translate(10,60) rotate(0)">
 <rect x="0" y="0" rx="5" class="box" width="60" height="60"/>
-<image x="10" y="10" href="./php.png" height="40" width="40"/>
+<image x="10" y="10" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40"/>
 </g>
 <g class="repobox" onmouseenter="skill_hover(evt)" title="nuxtjs" transform="translate(80,60) rotate(0)">
 <rect x="0" y="0" rx="5" class="box" width="60" height="60"/>
-<image x="10" y="10" href="./nuxtjs.png" height="40" width="40"/>
+<image x="10" y="10" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" width="40"/>
 </g>
 <g class="repobox" onmouseenter="skill_hover(evt)" title="tailwindcss" transform="translate(150,60) rotate(0)">
 <rect x="0" y="0" rx="5" class="box" width="60" height="60"/>
-<image x="10" y="10" href="./tailwindcss.png" height="40" width="40"/>
+<image x="10" y="10" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40"/>
 </g>
-<g class="repobox" onmouseenter="skill_hover(evt)" title="typescript" transform="translate(220,60) rotate(0)">
+<g class="repobox" onmouseenter="skill_hover(evt)" title="mysql" transform="translate(220,60) rotate(0)">
 <rect x="0" y="0" rx="5" class="box" width="60" height="60"/>
-<image x="10" y="10" href="./typescript.png" height="40" width="40"/>
+<image x="10" y="10" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/>
 </g>
-<g class="repobox" onmouseenter="skill_hover(evt)" title="javascript" transform="translate(290,60) rotate(0)">
+<g class="repobox" onmouseenter="skill_hover(evt)" title="typescript" transform="translate(290,60) rotate(0)">
 <rect x="0" y="0" rx="5" class="box" width="60" height="60"/>
-<image x="10" y="10" href="./javascript.png" height="40" width="40"/>
+<image x="10" y="10" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40"/>
 </g>
-<g class="repobox" onmouseenter="skill_hover(evt)" title="docker" transform="translate(360,60) rotate(0)">
+<g class="repobox" onmouseenter="skill_hover(evt)" title="javascript" transform="translate(360,60) rotate(0)">
 <rect x="0" y="0" rx="5" class="box" width="60" height="60"/>
-<image x="10" y="10" href="./docker.png" height="40" width="40"/>
-</g>
-<g class="repobox" onmouseenter="skill_hover(evt)" title="c" transform="translate(430,60) rotate(0)">
-<rect x="0" y="0" rx="5" class="box" width="60" height="60"/>
-<image x="10" y="10" href="./c.png" height="40" width="40"/>
+<image x="10" y="10" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
 </g>
 <rect x="0" y="650" width="600" height="3" fill="#000000"/>
-<text x="260" y="675" id="lang" class="text">C</text>
+<text x="260" y="675" id="lang" class="text">Javascript</text>
 </svg>
