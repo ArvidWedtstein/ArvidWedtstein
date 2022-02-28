@@ -61,6 +61,7 @@
     <th><a href="https://github.com/appex/appex-tournaments">Appex Tournament App</a></th>
     <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
     <th><a href="https://github.com/ArvidWedtstein/Devco">Wordpress Template</a></th>
+    <th><a hrf="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
   </tr>
   <tr>
     <th>Beskrivelse</th>
@@ -69,6 +70,7 @@
     <td>Tournament Bracket App for Appex. Lar deg opprette turneringer.</td>
     <td>Oppgraderer min gamle discordbot til DiscordJSV13 siden discord stengte av DiscordJS-Commando Frameworket</td>
     <td>Wordpress template til et skoleprosjekt</td>
+    <td>Embed generator for github</td>
   </tr>
   <tr>
     <th>Språk</th>
@@ -77,6 +79,7 @@
     <td>C#/DotNet for backend API, Nuxt 3 for frontend, MongoDB Database</td>
     <td>JavaScript. (Konverteres til TypeScript)</td>
     <td>PHP</td>
+    <td>Go</td>
   </tr>
 </table>
 <!-- <p align="center">

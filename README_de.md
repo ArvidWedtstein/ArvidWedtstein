@@ -60,6 +60,7 @@
     <th><a href="https://github.com/appex/appex-tournaments">Appex Tournament App</a></th>
     <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
     <th><a href="https://github.com/ArvidWedtstein/Devco">Wordpress Template</a></th>
+    <th><a hrf="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
   </tr>
   <tr>
     <th>Beschreibung</th>
@@ -68,6 +69,7 @@
     <td>Tournament Bracket App für Appex.</td>
     <td>Upgrade meines alten Discordbot auf DiscordJSV13, da Discord das DiscordJS-Commando Framework heruntergefahren hat</td>
     <td>Wordpress template für ein Schul Project</td>
+    <td>Embed generator für github</td>
   </tr>
   <tr>
     <th>Sprachen</th>
@@ -76,6 +78,7 @@
     <td>C#/DotNet für backend API, Nuxt 3 für frontend, MongoDB Database</td>
     <td>JavaScript. (Wird konvertiert zu TypeScript)</td>
     <td>PHP</td>
+    <td>Go</td>
   </tr>
 </table>
 <!-- <p align="center">

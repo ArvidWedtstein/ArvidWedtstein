@@ -2,6 +2,7 @@
 <h1 align="center">Welcome to</h1>
 <img src="icons/arvid.svg">
 
+
 <h1></h1>
 <table align="center">
   <tr>
@@ -12,6 +13,11 @@
 </table>
 
 <h2 align="center">🌱 I am currently learning:</h2>
+
+
+![y](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxtjs,tailwindcss,typescript,javascript,docker,c#,wordpress&bordercolor=ff0000)
+
+
 <blockquote align="center">
   <img width="15"src="icons/nuxt.png" /> Nuxt<br>
   <img width="15"src="icons/typescript.png" /> TypeScript<br>
@@ -21,6 +27,7 @@
   <img width="15"src="icons/docker.png" /> Docker<br>
   <img width="15"src="icons/csharp.png" /> C#<br>
   <img width="15"src="icons/tailwind.png" /> TailwindCSS<br>
+  <img width="15"src="" /> Transact-SQL<br>
   And a bunch of other stuff
 </blockquote>
 
@@ -46,12 +53,12 @@
 
 <h2 align="center">Some stats about me</h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&bg_color=30,dd3e54,ff5e62,ff9966&title_color=fff&text_color=fff)
+![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&bg_color=30,dd3e54,ff5e62,ff9966&title_color=fff&text_color=fff&icon_color=fff)
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=github_dark&langs_count=10&locale=en&hide_border=false&layout=compact&custom_title=My%20Most%20Used%20Languages&bg_color=30,dd3e54,ff5e62,ff9966&title_color=fff&text_color=fff&border_color=fff)
 
 
-<!-- <img src="https://githubembed.vercel.app/"> -->
+
 
 
 <h2 align="center">My current projects</h2>
@@ -64,6 +71,7 @@
     <th><a href="https://github.com/appex/appex-tournaments">Appex Tournament App</a></th>
     <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
     <th><a href="https://github.com/ArvidWedtstein/Devco">Wordpress Template</a></th>
+    <th><a href="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
   </tr>
   <tr>
     <th>Description</th>
@@ -72,6 +80,7 @@
     <td>Tournament Bracket App for Appex. Lets you create tournaments.</td>
     <td>Upgrading my old discordbot to DiscordJSV13 since discord shut down the DiscordJS-Commando Framework</td>
     <td>Wordpress template for school project</td>
+    <td>Embed Stats Generator for github</td>
   </tr>
   <tr>
     <th>Languages</th>
@@ -80,6 +89,7 @@
     <td>C#/DotNet for backend API, Nuxt 3 for frontend, MongoDB Database</td>
     <td>JavaScript. (Converting to TypeScript)</td>
     <td>PHP</td>
+    <td>Go</td>
   </tr>
 </table>
 <!-- <p align="center">
