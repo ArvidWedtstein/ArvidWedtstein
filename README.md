@@ -15,7 +15,9 @@
 <h2 align="center">🌱 I am currently learning:</h2>
 
 <a align="center">
+  
 ![y](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxtjs,tailwindcss,typescript,javascript,docker,c#,wordpress&bordercolor=ff0000)
+  
 </a>
 
 <blockquote align="center">
