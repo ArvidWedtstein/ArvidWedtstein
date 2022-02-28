@@ -17,6 +17,7 @@
 
 ![y](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxtjs,tailwindcss,typescript,javascript,docker,c#,wordpress&bordercolor=ff0000)
 
+![y](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg)
 
 <blockquote align="center">
   <img width="15"src="icons/nuxt.png" /> Nuxt<br>
