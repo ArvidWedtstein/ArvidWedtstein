@@ -16,11 +16,11 @@
 
 <a align="center">
   
-![y](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxtjs,tailwindcss,typescript,mysql,go,docker,wordpress,lua&backgroundcolor=333333&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=000000)
+![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxtjs,tailwindcss,typescript,mysql,go,docker,wordpress&backgroundcolor=333333&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=000000)
   
 </a>
 
-<blockquote align="center">
+<!-- <blockquote align="center">
   <img width="15"src="icons/nuxt.png" /> Nuxt<br>
   <img width="15"src="icons/typescript.png" /> TypeScript<br>
   <img width="15"src="icons/go.png" /> Go<br>
@@ -31,8 +31,13 @@
   <img width="15" src="icons/tailwind.png" /> TailwindCSS<br>
   <img width="15"src="" /> Transact-SQL<br>
   And a bunch of other stuff
-</blockquote>
+</blockquote> -->
 
+<a align="center">
+  
+![Skills](https://arvidgithubembed.herokuapp.com/skills?languages=nuxtjs,scss,javascript,mongodb,lua&backgroundcolor=333333&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=000000)
+  
+</a>
 
 
 <h2 align="center">👀 I’m interested in:</h2>
