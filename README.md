@@ -13,6 +13,7 @@
 </table>
 
 <h2 align="center">🌱 I am currently learning:</h2>
+<img src="https://arvidgithubembed.herokuapp.com/skills?languages=NuxtJS,Typescript,Go,PHP,Wordpress,Docker,C#,TailwindCSS&bordercolor=ff0000&boxcolor=222222&backgroundcolor=000000&titlecolor=ffffff&textcolor=dddddd&textcolor=000000">
 <blockquote align="center">
   <img width="15"src="icons/nuxt.png" /> Nuxt<br>
   <img width="15"src="icons/typescript.png" /> TypeScript<br>
