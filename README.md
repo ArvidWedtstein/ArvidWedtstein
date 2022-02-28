@@ -35,7 +35,7 @@
 
 <a align="center">
   
-![Skills](https://arvidgithubembed.herokuapp.com/skills?languages=nuxtjs,scss,javascript,mongodb,lua&backgroundcolor=333333&title=Skills&titlecolor=ffffff&textcolor=000000)
+![Skills](https://arvidgithubembed.herokuapp.com/skills?languages=nuxtjs,sass,javascript,mongodb,lua&backgroundcolor=333333&title=Skills&titlecolor=ffffff&textcolor=000000)
   
 </a>
 
