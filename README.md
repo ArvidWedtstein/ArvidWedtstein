@@ -16,7 +16,7 @@
 
 <a align="center">
   
-![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxtjs,tailwindcss,typescript,mysql,go,docker,wordpress&backgroundcolor=333333&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=000000)
+![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxtjs,tailwindcss,typescript,mysql,go,docker,wordpress,csharp,dotnetcore&backgroundcolor=333333&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=000000)
   
 </a>
 
@@ -35,7 +35,7 @@
 
 <a align="center">
   
-![Skills](https://arvidgithubembed.herokuapp.com/skills?languages=nuxtjs,sass,javascript,mongodb,lua&backgroundcolor=333333&title=Skills&titlecolor=ffffff&textcolor=000000)
+![Skills](https://arvidgithubembed.herokuapp.com/skills?languages=nuxtjs,sass,javascript,mongodb,lua,css3,html5,threejs,bootstrap,github,heroku,nodejs,nuxtjs,photoshop,illustrator,unity&backgroundcolor=333333&title=Skills&titlecolor=ffffff&textcolor=000000)
   
 </a>
 
