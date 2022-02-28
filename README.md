@@ -16,7 +16,7 @@
 
 <a align="center">
   
-![y](https://arvidgithubembed.herokuapp.com/skills?languages=php,vue,tailwindcss,typescript,javascript,tsql,go,html,css,markdown,dogescript,lua,scss,vbscript,ruby,wordpress&textcolor=00000&backgroundcolor=333333)
+![y](https://arvidgithubembed.herokuapp.com/skills?languages=php,vue,tailwindcss,typescript,javascript,tsql,go,html,css,markdown,dogescript,lua,scss,vbscript,ruby,wordpress&textcolor=00000&backgroundcolor=333333&title=test%20test)
   
 </a>
 
