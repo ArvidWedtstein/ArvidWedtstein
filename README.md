@@ -13,7 +13,11 @@
 </table>
 
 <h2 align="center">🌱 I am currently learning:</h2>
+
+
 ![y](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxtjs,tailwindcss,typescript,javascript,docker,c#,wordpress)
+
+
 <blockquote align="center">
   <img width="15"src="icons/nuxt.png" /> Nuxt<br>
   <img width="15"src="icons/typescript.png" /> TypeScript<br>
