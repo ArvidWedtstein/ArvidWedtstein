@@ -16,7 +16,7 @@
 
 <a align="center">
   
-![y](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxtjs,tailwindcss,typescript,javascript,docker,c#,wordpress&bordercolor=ff0000&title=I am currently learning)
+![y](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxtjs,tailwindcss,typescript,javascript,docker,c#,wordpress&bordercolor=ff0000&title=I%20am%20currently%20learning)
   
 </a>
 
