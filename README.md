@@ -112,7 +112,7 @@
   </a>
 </p> -->
 
-<h4>😂 Random joke</h4>
+<h4 align="center">😂 Random joke</h4>
 
 <div align="center">
 
