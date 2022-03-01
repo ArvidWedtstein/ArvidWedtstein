@@ -16,7 +16,7 @@
 
 <a align="center">
   
-![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxt,tailwind,typescript,mysql,go,docker,wordpress,csharp,dotnetcore&backgroundcolor=333333&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=000000&boxcolor=c6bcbc)
+![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxt,threejs,tailwind,typescript,mysql,go,docker,wordpress,csharp,dotnetcore&backgroundcolor=333333&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=000000&boxcolor=c6bcbc)
   
 </a>
 
