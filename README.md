@@ -14,11 +14,11 @@
 
 <h2 align="center">🌱 I am currently learning:</h2>
 
-<a align="center">
+<div align="center">
   
 ![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxt,typescript,mysql,go,docker,wordpress,csharp,dotnetcore&backgroundcolor=333333&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=000000&boxcolor=c6bcbc)
   
-</a>
+</div>
 
 <!-- <blockquote align="center">
   <img width="15"src="icons/nuxt.png" /> Nuxt<br>
@@ -33,11 +33,11 @@
   And a bunch of other stuff
 </blockquote> -->
 
-<a align="center">
+<div align="center">
   
 ![Skills](https://arvidgithubembed.herokuapp.com/skills?languages=nuxt,tailwind,sass,javascript,mongodb,lua,css3,html5,threejs,express,bootstrap,github,heroku,nodejs,photoshop,illustrator,unity&backgroundcolor=333333&title=Skills&titlecolor=ffffff&textcolor=000000&boxcolor=c6bcbc)
   
-</a>
+</div>
 
 
 <h2 align="center">👀 I’m interested in:</h2>
