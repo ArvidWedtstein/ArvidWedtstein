@@ -112,11 +112,13 @@
   </a>
 </p> -->
 
-</h4>😂 Random joke</h4>
+<h4>😂 Random joke</h4>
+
+<div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
+</div>
 
 
 
