@@ -95,7 +95,12 @@
   </tr>
 </table>
 
+## 🔥 Streak stats
 
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <img title="🔥" alt="Arvid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arvidwedtstein&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+</p>
 
 <h4 align="center">😂 Random joke</h4>
 
