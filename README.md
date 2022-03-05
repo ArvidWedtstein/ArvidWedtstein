@@ -59,6 +59,11 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&bg_color=0D1117&title_color=fff&text_color=fff&icon_color=fff&border_color=0D1117)
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=github_dark&langs_count=10&locale=en&hide_border=false&layout=compact&custom_title=My%20Most%20Used%20Languages&bg_color=0D1117&title_color=fff&text_color=fff&border_color=0D1117)
+  
+ <p align="center">
+  <img title="🔥" alt="Arvid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arvidwedtstein&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+</p>
+
 
 </div>
 
@@ -95,12 +100,7 @@
   </tr>
 </table>
 
-## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <img title="🔥" alt="Arvid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arvidwedtstein&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
-</p>
 
 <h4 align="center">😂 Random joke</h4>
 
