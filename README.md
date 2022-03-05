@@ -20,18 +20,6 @@
   
 </div>
 
-<!-- <blockquote align="center">
-  <img width="15"src="icons/nuxt.png" /> Nuxt<br>
-  <img width="15"src="icons/typescript.png" /> TypeScript<br>
-  <img width="15"src="icons/go.png" /> Go<br>
-  <img width="15"src="icons/php.png" /> PHP<br>
-  <img width="15"src="icons/wordpress.png" /> Wordpress<br>
-  <img width="15"src="icons/docker.png" /> Docker<br>
-  <img width="15"src="icons/csharp.png" /> C#<br>
-  <img width="15" src="icons/tailwind.png" /> TailwindCSS<br>
-  <img width="15"src="" /> Transact-SQL<br>
-  And a bunch of other stuff
-</blockquote> -->
 #
 <div align="center">
   
@@ -100,17 +88,10 @@
     <td>Go</td>
   </tr>
 </table>
-<!-- <p align="center">
-  <a href="https://github.com/ArvidWedtstein/Nuxt-Website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arvidwedtstein&repo=nuxt-website" />
-  </a>
-  <a href="https://github.com/ArvidWedtstein/Website-API">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arvidwedtstein&repo=website-api" />
-  </a>
-  <a href="https://github.com/ArvidWedtstein/DiscordbotV13">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arvidwedtstein&repo=discordbotv13" />
-  </a>
-</p> -->
+
+<div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Arvidwedtstein&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats">
+ </div>
 
 <h4 align="center">😂 Random joke</h4>
 
