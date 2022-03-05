@@ -89,7 +89,7 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arvidwedtstein&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
 
 <h4 align="center">😂 Random joke</h4>
 
