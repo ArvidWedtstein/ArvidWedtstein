@@ -1,7 +1,11 @@
 
 <h1 align="center">Welcome to</h1>
+
+<div align="center">
+  
 <img src="icons/arvid.svg">
 
+</div>
 
 <h1></h1>
 <table align="center">
