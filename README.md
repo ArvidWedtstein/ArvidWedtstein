@@ -9,7 +9,7 @@
 
 <h1></h1>
 <table align="center">
-  <tr align="center">My profile is available in:</tr>
+  <tr align="center"><b align="center">My profile is available in:</b></tr>
   <tr>
     <td><b><u><a href="README.md">English</a></b></u></td>
     <td><a href="README_no.md">Norwegian</a></td>
