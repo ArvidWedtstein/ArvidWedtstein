@@ -57,7 +57,7 @@
 </div>
 
 
-<h2 align="center">My current projects</h2>
+<h2 align="center">Some of my current projects</h2>
 
 <table align="center">
   <tr>
