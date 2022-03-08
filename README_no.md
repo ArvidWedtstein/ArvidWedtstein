@@ -15,6 +15,21 @@
   </tr>
 </table>
 
+
+#
+
+<div align="center">
+  
+![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxt,typescript,mysql,go,docker,wordpress,csharp,dotnetcore&backgroundcolor=0D1117&title=Jeg%20lærer%20for%20tiden:&titlecolor=ffffff&textcolor=ffffff&boxcolor=c6bcbc&bordercolor=0D1117)
+  
+</div>
+
+#
+<div align="center">
+  
+![Skills](https://arvidgithubembed.herokuapp.com/skills?languages=nuxt,tailwind,sass,javascript,mongodb,lua,css3,html5,express,bootstrap,github,heroku,threejs,nodejs,unity&backgroundcolor=0D1117&title=Skills&titlecolor=ffffff&textcolor=000000&boxcolor=c6bcbc&bordercolor=0D1117)
+  
+</div>
 <h2 align="center">🌱 Jeg lærer for tiden:</h2>
 <blockquote align="center">
   <img width="15"src="icons/nuxt.png" /> Nuxt<br>
