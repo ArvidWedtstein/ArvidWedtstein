@@ -30,21 +30,10 @@
 ![Skills](https://arvidgithubembed.herokuapp.com/skills?languages=nuxt,tailwind,sass,javascript,mongodb,lua,css3,html5,express,bootstrap,github,heroku,threejs,nodejs,unity&backgroundcolor=0D1117&title=Skills&titlecolor=ffffff&textcolor=000000&boxcolor=c6bcbc&bordercolor=0D1117)
   
 </div>
-<h2 align="center">🌱 Jeg lærer for tiden:</h2>
-<blockquote align="center">
-  <img width="15"src="icons/nuxt.png" /> Nuxt<br>
-  <img width="15"src="icons/typescript.png" /> TypeScript<br>
-  <img width="15"src="icons/go.png" /> Go<br>
-  <img width="15"src="icons/php.png" /> PHP<br>
-  <img width="15"src="icons/wordpress.png" /> Wordpress<br>
-  <img width="15"src="icons/docker.png" /> Docker<br>
-  <img width="15"src="icons/csharp.png" /> C#<br>
-  <img width="15"src="icons/tailwind.png" /> TailwindCSS<br>
-  og mye annet.
-</blockquote>
 
 
-#### 👀 I’m interested in:
+
+#### 👀 Jeg har interesse for:
 <blockquote align="center">
   Web Utvikling<br>
   3D Printing<br>
