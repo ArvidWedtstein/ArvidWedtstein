@@ -1,6 +1,9 @@
 
 <h1 align="center">Velkommen til</h1>
+
+<div align="center">
 <img src="icons/arvid.svg">
+</div>
 
 <h1></h1>
 
