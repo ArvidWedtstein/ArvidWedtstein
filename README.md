@@ -116,4 +116,3 @@
 
 
 
-![resonance](https://arvidgithubembed.herokuapp.com/resonance)
