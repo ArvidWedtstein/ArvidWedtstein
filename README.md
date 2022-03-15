@@ -61,7 +61,7 @@
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=github_dark&langs_count=12&locale=en&hide_border=false&layout=compact&custom_title=My%20Most%20Used%20Languages&bg_color=0D1117&title_color=fff&text_color=fff&border_color=0D1117&hideborder=true)
   
  
- ![Streak](https://arvidgithubembed.herokuapp.com/streak?user=arvidwedtstein&backgroundcolor=0D1117&textcolor=ffffff&titlecolor=ffffff)
+ ![Streak](https://arvidgithubembed.herokuapp.com/streak?user=arvidwedtstein&backgroundcolor=0D1117&textcolor=ffffff&titlecolor=ffffff&bordercolor=0D1117)
   
   
  <p align="center">
