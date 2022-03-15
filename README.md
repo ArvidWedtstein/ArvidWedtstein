@@ -60,6 +60,10 @@
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=github_dark&langs_count=12&locale=en&hide_border=false&layout=compact&custom_title=My%20Most%20Used%20Languages&bg_color=0D1117&title_color=fff&text_color=fff&border_color=0D1117&hideborder=true)
   
+ 
+ ![Streak](https://arvidgithubembed.herokuapp.com/streak?user=arvidwedtstein&backgroundcolor=0D1117&textcolor=ffffff&titlecolor=ffffff)
+  
+  
  <p align="center">
   <img title="🔥" alt="Arvid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arvidwedtstein&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e25822&fire=e25822&currStreakLabel=e25822"/>
 </p>
