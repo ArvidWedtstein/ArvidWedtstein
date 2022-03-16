@@ -16,10 +16,10 @@
 		 <animate id="f1"
       			attributeName="stroke-dashoffset"
          		values="1;2037"
-         		dur="60s"
+         		dur="30s"
 			  begin="0s"
          	calcMode="linear"
-			  
+			  repeatCount="1"
      		/>  
 	</g>
 </svg>
