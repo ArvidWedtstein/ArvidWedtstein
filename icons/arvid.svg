@@ -18,7 +18,7 @@
          		begin="0.1s;f1.end+0.4s"
          		values="2037;1;2;3;4;5;6;2037"
          		dur="60s"
-         	calcMode="linear"
+         	calcMode="indefinite"
      		/>  
 	</g>
 </svg>
