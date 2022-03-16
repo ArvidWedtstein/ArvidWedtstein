@@ -63,7 +63,7 @@
   
   
  <p align="center">
-  <img title="🔥" alt="Arvid's streak" src="https://arvidgithubembed.herokuapp.com/streak?user=arvidwedtstein&backgroundcolor=0D1117&textcolor=ffffff&titlecolor=ffffff&bordercolor=0D1117"/>
+  <img title="🔥" alt="Arvid's streak" src="https://arvidgithubembed.herokuapp.com/streak?user=arvidwedtstein&backgroundcolor=0D1117&textcolor=dddddd&titlecolor=ffffff&bordercolor=0D1117"/>
 </p>
 
 
