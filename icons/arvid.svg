@@ -17,7 +17,7 @@
       			attributeName="stroke-dashoffset"
          		begin="0.1s;f1.end+0.4s"
          		values="2037;0;2037;1000;300;2037"
-         		dur="15s"
+         		dur="60s"
          	calcMode="linear"
      		/>  
 	</g>
