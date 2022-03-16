@@ -18,7 +18,6 @@
          		values="1;2037;1"
          		dur="60s"
 			  begin="0s"
-			  end="4s"
          	calcMode="linear"
 			  repeatCount="indefinite"
      		/>  
