@@ -19,7 +19,7 @@
          		dur="60s"
 			  begin="0s"
          	calcMode="linear"
-			  repeatCount="indefinite"
+			  
      		/>  
 	</g>
 </svg>
