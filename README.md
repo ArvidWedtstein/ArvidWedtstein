@@ -58,8 +58,9 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&bg_color=0D1117&title_color=fff&text_color=fff&icon_color=fff&border_color=0D1117&hideborder=true)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=github_dark&langs_count=11&locale=en&hide_border=false&layout=compact&custom_title=My%20Most%20Used%20Languages&bg_color=0D1117&title_color=fff&text_color=fff&border_color=0D1117&hideborder=true)
+<!-- ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=github_dark&langs_count=11&locale=en&hide_border=false&layout=compact&custom_title=My%20Most%20Used%20Languages&bg_color=0D1117&title_color=fff&text_color=fff&border_color=0D1117&hideborder=true) -->
  
+![TopLangs](https://arvidgithubembed.herokuapp.com/languageCard?user=arvidwedtstein&title=My%20Most%20Used%20Languages)
   
   
  <p align="center">
