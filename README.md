@@ -60,7 +60,7 @@
 
 <!-- ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=github_dark&langs_count=11&locale=en&hide_border=false&layout=compact&custom_title=My%20Most%20Used%20Languages&bg_color=0D1117&title_color=fff&text_color=fff&border_color=0D1117&hideborder=true) -->
  
-![TopLangs](https://arvidgithubembed.herokuapp.com/languageCard?user=arvidwedtstein&title=My%20Most%20Used%20Languages&backgroundcolor=0D1117&bordercolor=0D1117&textcolor=ffffff&titlecolor=ffffff&langs_count=8)
+![TopLangs](https://arvidgithubembed.herokuapp.com/languageCard?user=arvidwedtstein&title=My%20Most%20Used%20Languages&backgroundcolor=0D1117&bordercolor=0D1117&textcolor=ffffff&titlecolor=ffffff&langs_count=5)
   
   
  <p align="center">
