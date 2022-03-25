@@ -22,7 +22,7 @@
 
 <div align="center">
   
-![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxt,typescript,mysql,go,docker,wordpress,csharp,dotnetcore,graphql&backgroundcolor=0D1117&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=ffffff&boxcolor=CFCDFF&bordercolor=0D1117)
+![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxt,typescript,mysql,go,docker,wordpress,csharp,dotnetcore,graphql&backgroundcolor=0D1117&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=ffffff&boxcolor=CFCDFF&bordercolor=0D1117&boxcolor=0D1117)
   
 </div>
 
@@ -64,7 +64,7 @@
   
   
  <p align="center">
-  <img title="🔥" alt="Arvid's streak" src="https://arvidgithubembed.herokuapp.com/streak?user=arvidwedtstein&backgroundcolor=0D1117&textcolor=dddddd&titlecolor=ffffff&bordercolor=0D1117"/>
+  <img title="🔥" alt="Arvid's streak" src="https://arvidgithubembed.herokuapp.com/streak?user=arvidwedtstein&theme=red"/>
 </p>
 
 
