@@ -59,7 +59,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&bg_color=0D1117&title_color=fff&text_color=fff&icon_color=fff&border_color=0D1117&hideborder=true)
 
- 
+ ![Stats](https://arvidgithubembed.herokuapp.com/stats?user=arvidwedtstein&title=Stats&theme=retro&backgroundcolor=0D1117&bordercolor=0D1117)
+  
 ![TopLangs](https://arvidgithubembed.herokuapp.com/languageCard?user=arvidwedtstein&title=My%20Most%20Used%20Languages&theme=red&backgroundcolor=0D1117&bordercolor=0D1117&langs_count=8)
   
   
