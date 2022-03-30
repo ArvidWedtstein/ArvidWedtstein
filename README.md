@@ -36,12 +36,12 @@
 
 
 <h2 align="center">👀 I’m interested in:</h2>
-<blockquote align="center">
+<div align="center">
   Web Development<br>
   3D Printing<br>
   3D Modelling<br>
   new technology<br>
-</blockquote>
+</div>
 
 
 <h2 align="center">📫 How to reach me: </h6>
