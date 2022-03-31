@@ -57,7 +57,7 @@
 
 <div align="center">
 
- ![Stats](https://arvidgithubembed.herokuapp.com/stats?user=arvidwedtstein&title=Stats&theme=retro&backgroundcolor=0D1117&bordercolor=0D1117)
+ ![Stats](https://arvidgithubembed.herokuapp.com/stats?user=arvidwedtstein&title=Some%20Stats&theme=retro&backgroundcolor=0D1117&bordercolor=0D1117)
   
 ![TopLangs](https://arvidgithubembed.herokuapp.com/languageCard?user=arvidwedtstein&title=My%20Most%20Used%20Languages&theme=github&backgroundcolor=0D1117&bordercolor=0D1117&langs_count=9)
   
