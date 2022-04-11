@@ -40,7 +40,7 @@
   Web Development<br>
   3D Printing<br>
   3D Modelling<br>
-  new technology<br>
+  New technology<br>
 </div>
 
 
