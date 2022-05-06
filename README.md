@@ -77,7 +77,6 @@
     <th>Name</th>
     <th><a href="https://github.com/ArvidWedtstein/Nuxt-Website">Portfolio</a></th>
     <th><a href="https://github.com/ArvidWedtstein/Website-API">Portfolio API</a></th>
-    <th><a href="https://github.com/appex/appex-tournaments">Appex Tournament App</a></th>
     <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
     <th><a href="https://github.com/ArvidWedtstein/Devco">Wordpress Template</a></th>
     <th><a href="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
@@ -86,7 +85,6 @@
     <th>Description</th>
     <td>My portfolio. Lists all my projects and tells a little bit about me</td>
     <td>Express API for handling projects, reviews and userdata on my portfolio</td>
-    <td>Tournament Bracket App for Appex. Lets you create tournaments.</td>
     <td>Upgrading my old discordbot to DiscordJSV13 since discord shut down the DiscordJS-Commando Framework</td>
     <td>Wordpress template for school project</td>
     <td>Embed Stats Generator for github</td>
@@ -95,7 +93,6 @@
     <th>Languages</th>
     <td>Nuxt, Vue, JS</td>
     <td>JS, MongoDB Database</td>
-    <td>C#/DotNet for backend API, Nuxt 3 for frontend, MongoDB Database</td>
     <td>JavaScript. (Converting to TypeScript)</td>
     <td>PHP</td>
     <td>Go</td>
