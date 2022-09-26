@@ -22,7 +22,7 @@
 
 <div align="center">
   
-![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxt,visualbasic,mysql,go,docker,wordpress,csharp,dotnetcore,flutter&backgroundcolor=0D1117&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=ffffff&boxcolor=0D1117&bordercolor=0D1117)
+![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=nuxt,visualbasic,mysql,go,docker,wordpress,csharp,dotnetcore,flutter,dart&backgroundcolor=0D1117&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=ffffff&boxcolor=0D1117&bordercolor=0D1117)
   
 </div>
 
