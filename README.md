@@ -77,7 +77,7 @@
     <th><a href="https://github.com/ArvidWedtstein/Nuxt-Website">Portfolio</a></th>
     <th><a href="https://github.com/ArvidWedtstein/Website-API">Portfolio API</a></th>
     <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
-    <th><a href="https://github.com/ArvidWedtstein/Devco">Wordpress Template</a></th>
+    <th><a href="https://github.com/ArvidWedtstein/React-Practice-App">React Practice</a></th>
     <th><a href="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
   </tr>
   <tr>
@@ -85,7 +85,7 @@
     <td>My portfolio. Lists all my projects and tells a little bit about me</td>
     <td>Express API for handling projects, reviews and userdata on my portfolio</td>
     <td>Upgrading my old discordbot to DiscordJSV13 since discord shut down the DiscordJS-Commando Framework</td>
-    <td>Wordpress template for school project</td>
+    <td>React Practice project for Ølen Betong</td>
     <td>Embed Stats Generator for github</td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@
     <td>Nuxt, Vue, JS</td>
     <td>JS, MongoDB Database</td>
     <td>JavaScript. (Converting to TypeScript)</td>
-    <td>PHP</td>
+    <td>TSX, React</td>
     <td>Go</td>
   </tr>
 </table>
