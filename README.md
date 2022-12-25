@@ -56,13 +56,13 @@
 
 <div align="center">
 
- ![Stats](https://arvidgithubembed.herokuapp.com/stats?user=arvidwedtstein&title=Stat&theme=retro&backgroundcolor=0D1117&bordercolor=0D1117)
+ ![Stats]((https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/stats?user=arvidwedtstein&title=Stat&theme=retro&backgroundcolor=0D1117&bordercolor=0D1117)
   
-![TopLangs](https://arvidgithubembed.herokuapp.com/languageCard?user=arvidwedtstein&title=My%20Most%20Used%20Languages&theme=github&backgroundcolor=0D1117&bordercolor=0D1117&langs_count=9)
+![TopLangs]((https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/languageCard?user=arvidwedtstein&title=My%20Most%20Used%20Languages&theme=github&backgroundcolor=0D1117&bordercolor=0D1117&langs_count=9)
   
   
  <p align="center">
-  <img title="🔥" alt="Arvid streak" src="https://arvidgithubembed.herokuapp.com/streak?user=arvidwedtstein&theme=retro&backgroundcolor=0D1117&bordercolor=0D1116"/>
+  <img title="🔥" alt="Arvid streak" src="(https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/streak?user=arvidwedtstein&theme=retro&backgroundcolor=0D1117&bordercolor=0D1116"/>
 </p>
 
 
