@@ -21,16 +21,17 @@
 #
 
 <div align="center">
-  
+<!--  
 ![Currently Learning](https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/skills?languages=nuxt,visualbasic,flutter,dart&backgroundcolor=0D1117&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=ffffff&boxcolor=0D1117&bordercolor=0D1117)
-  
+-->
 </div>
 
 #
 
 <div align="center">
-  
+<!--  
 ![Skills](https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/skills?languages=nuxt,tailwind,sass,javascript,typescript,mongodb,lua,css3,html5,express,bootstrap,github,heroku,netlify,threejs,nodejs,unity,alpinejs,graphql&backgroundcolor=0D1117&title=Skills&titlecolor=ffffff&textcolor=FFFFFF&boxcolor=0D1117&bordercolor=0D1117)
+-->
 </div>
 
 
@@ -55,16 +56,16 @@
 <h2 align="center">Some stats about me</h2>
 
 <div align="center">
-
+<!--
  ![Stats]((https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/stats?user=arvidwedtstein&title=Stat&theme=retro&backgroundcolor=0D1117&bordercolor=0D1117)
   
 ![TopLangs]((https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/languageCard?user=arvidwedtstein&title=My%20Most%20Used%20Languages&theme=github&backgroundcolor=0D1117&bordercolor=0D1117&langs_count=9)
   
-  
+ 
  <p align="center">
   <img title="🔥" alt="Arvid streak" src="(https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/streak?user=arvidwedtstein&theme=retro&backgroundcolor=0D1117&bordercolor=0D1116"/>
 </p>
-
+-->
 
 </div>
 
