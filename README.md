@@ -57,7 +57,7 @@
 <h2 align="center">Some stats about me</h2>
 
 <div align="center">
-<!--
+<!--  
  ![Stats]((https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/stats?user=arvidwedtstein&title=Stat&theme=retro&backgroundcolor=0D1117&bordercolor=0D1117)
   
 ![TopLangs]((https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/languageCard?user=arvidwedtstein&title=My%20Most%20Used%20Languages&theme=github&backgroundcolor=0D1117&bordercolor=0D1117&langs_count=9)
