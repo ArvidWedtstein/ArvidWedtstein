@@ -11,15 +11,16 @@
 <table align="center">
   <tr>
     <td><a href="README.md">English</a></td>
-    <td><a href="README_no.md">Norwegian</a></td>
-    <td><b><u><a href="README_de.md">German</a></b></u></td>
+    <td><a href="README_no.md">Norwegisch</a></td>
+    <td><b><u><a href="README_de.md">Deutsch</a></b></u></td>
   </tr>
 </table>
 
+<!--
 <div align="center">
 ![Currently Learning](https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/skills?languages=nuxt,visualbasic,flutter,dart&backgroundcolor=0D1117&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=ffffff&boxcolor=0D1117&bordercolor=0D1117)
 </div>
-
+-->
 #
 
 <div align="center">
