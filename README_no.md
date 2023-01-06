@@ -2,16 +2,19 @@
 <h1 align="center">Velkommen til</h1>
 
 <div align="center">
+  
 <img src="icons/arvid.svg">
+  
 </div>
 
 <h1></h1>
 
+<p align="center">Profilen min er tilgjengelig i:</p>
 <table align="center">
   <tr>
-    <td><a href="README.md">English</a></td>
-    <td><b><u><a href="README_no.md">Norwegian</a></b></u></td>
-    <td><a href="README_de.md">German</a></td>
+    <td><a href="README.md">Engelsk</a></td>
+    <td><b><u><a href="README_no.md">Norsk</a></b></u></td>
+    <td><a href="README_de.md">Tysk</a></td>
   </tr>
 </table>
 
@@ -19,16 +22,17 @@
 #
 
 <div align="center">
-  
-![Currently Learning](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxt,typescript,mysql,go,docker,wordpress,csharp,dotnetcore&backgroundcolor=0D1117&title=Jeg%20lærer%20for%20tiden:&titlecolor=ffffff&textcolor=ffffff&boxcolor=c6bcbc&bordercolor=0D1117)
-  
+<!--  
+![Currently Learning](https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/skills?languages=nuxt,visualbasic,flutter,dart&backgroundcolor=0D1117&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=ffffff&boxcolor=0D1117&bordercolor=0D1117)
+-->
 </div>
 
 #
+
 <div align="center">
-  
-![Skills](https://arvidgithubembed.herokuapp.com/skills?languages=nuxt,tailwind,sass,javascript,mongodb,lua,css3,html5,express,bootstrap,github,heroku,threejs,nodejs,unity&backgroundcolor=0D1117&title=Skills&titlecolor=ffffff&textcolor=000000&boxcolor=c6bcbc&bordercolor=0D1117)
-  
+<!--  
+![Skills](https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/skills?languages=nuxt,tailwind,sass,javascript,typescript,mongodb,lua,css3,html5,express,bootstrap,github,heroku,netlify,threejs,nodejs,unity,alpinejs,graphql&backgroundcolor=0D1117&title=Skills&titlecolor=ffffff&textcolor=FFFFFF&boxcolor=0D1117&bordercolor=0D1117)
+-->
 </div>
 
 
@@ -44,18 +48,29 @@
 
 <h2 align="center">📫 Du kan komme i kontakt med meg på: </h6>
 <ul align="center">
-  <li align="center">Email - arvidw0310@gmail.com</li>
+  <!--<li align="center">Email - arvidw0310@gmail.com</li>-->
   <li align="center">EmailV2 - spamarvid0310@gmail.com (tar lengre tid før du får svar)</li>
-  <li align="center"><a href="https://nuxtarvidw.netlify.app">På min website (kontaktside ute av drift for tiden)</a></li>
+  <li align="center"><a href="https://nuxtarvidw.netlify.app">På min website (ute av drift for tiden pga latskap)</a></li>
 </ul>
 
 
+<!--  
+<h2 align="center">Litt data om meg/h2>
 
-<h2 align="center">Noen data om meg</h2>
+<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&bg_color=30,dd3e54,ff5e62,ff9966&title_color=fff&text_color=fff)
+ ![Stats]((https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/stats?user=arvidwedtstein&title=Stat&theme=retro&backgroundcolor=0D1117&bordercolor=0D1117)
+  
+![TopLangs]((https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/languageCard?user=arvidwedtstein&title=My%20Most%20Used%20Languages&theme=github&backgroundcolor=0D1117&bordercolor=0D1117&langs_count=9)
+  
+ 
+ <p align="center">
+  <img title="🔥" alt="Arvid streak" src="(https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/streak?user=arvidwedtstein&theme=retro&backgroundcolor=0D1117&bordercolor=0D1116"/>
+</p>
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=github_dark&langs_count=10&locale=en&hide_border=false&layout=compact&custom_title=Mest%20Brukte%20Språk&bg_color=30,dd3e54,ff5e62,ff9966&title_color=fff&text_color=fff&border_color=fff)
+
+</div>
+-->
 
 
 <h2 align="center">Mine prosjekter</h2>
@@ -63,32 +78,28 @@
 <table align="center">
   <tr>
     <th>Navn</th>
-    <th><a href="https://github.com/ArvidWedtstein/Nuxt-Website">Portfolio</a></th>
-    <th><a href="https://github.com/ArvidWedtstein/Website-API">Portfolio API</a></th>
-    <th><a href="https://github.com/appex/appex-tournaments">Appex Tournament App</a></th>
+    <th><a href="https://github.com/ArvidWedtstein/ArkDashboard">Ark Dashboard</a></th>
     <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
-    <th><a href="https://github.com/ArvidWedtstein/Devco">Wordpress Template</a></th>
-    <th><a hrf="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
+    <th><a href="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
+    <th><a href="https://github.com/olenbetong">Timekeeping-Timereg</a></th>
   </tr>
   <tr>
     <th>Beskrivelse</th>
-    <td>Min portfolio. Gir en oversikt over alle mine prosjekter og forteller litt om meg</td>
-    <td>Express API for å holde styr på prosjekter, omtaler og brukerdata på min portfolio</td>
-    <td>Tournament Bracket App for Appex. Lar deg opprette turneringer.</td>
-    <td>Oppgraderer min gamle discordbot til DiscordJSV13 siden discord stengte av DiscordJS-Commando Frameworket</td>
-    <td>Wordpress template til et skoleprosjekt</td>
-    <td>Embed generator for github</td>
+    <td>Dashboard som viser Ark Survival Evolved basespots, dinosaur stats og mye mer./td>
+    <td>Discord bot. Mye rart i denne her. Ikke hostet for tiden pga fattig og lite brukt.</td>
+    <td>Embed Stats Generator for github</td>
+    <td>Fraværssystem for Ølen Betong</td>
   </tr>
   <tr>
     <th>Språk</th>
-    <td>Nuxt, Vue, JS</td>
-    <td>JS, MongoDB Database</td>
-    <td>C#/DotNet for backend API, Nuxt 3 for frontend, MongoDB Database</td>
-    <td>JavaScript. (Konverteres til TypeScript)</td>
-    <td>PHP</td>
+    <th>Languages</th>
+    <td>RedwoodJS, React, Prisma, PostgreSQL, GraphQL</td>
+    <td>JavaScript. (Converting to TypeScript)</td>
     <td>Go</td>
+    <td>React, SQL Server, Synergi, Appframe</td>
   </tr>
 </table>
+
 <!-- <p align="center">
   <a href="https://github.com/ArvidWedtstein/Nuxt-Website">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arvidwedtstein&repo=nuxt-website" />
