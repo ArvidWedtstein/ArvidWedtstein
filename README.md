@@ -48,17 +48,17 @@
 
 <h2 align="center">📫 How to reach me: </h6>
 <ul align="center">
-  <li align="center">Email - arvidw0310@gmail.com</li>
+  <!--<li align="center">Email - arvidw0310@gmail.com</li>-->
   <li align="center">EmailV2 - spamarvid0310@gmail.com (Longer response time)</li>
   <li align="center"><a href="https://arvidw.space">On my website (currently not possible)</a></li>
 </ul>
 
 
-
+<!--  
 <h2 align="center">Some stats about me</h2>
 
 <div align="center">
-<!--  
+
  ![Stats]((https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/stats?user=arvidwedtstein&title=Stat&theme=retro&backgroundcolor=0D1117&bordercolor=0D1117)
   
 ![TopLangs]((https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/languageCard?user=arvidwedtstein&title=My%20Most%20Used%20Languages&theme=github&backgroundcolor=0D1117&bordercolor=0D1117&langs_count=9)
@@ -67,10 +67,10 @@
  <p align="center">
   <img title="🔥" alt="Arvid streak" src="(https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/streak?user=arvidwedtstein&theme=retro&backgroundcolor=0D1117&bordercolor=0D1116"/>
 </p>
--->
+
 
 </div>
-
+-->
 
 <h2 align="center">Some of my current projects</h2>
 
@@ -80,7 +80,7 @@
     <th><a href="https://github.com/ArvidWedtstein/ArkDashboard">Ark Dashboard</a></th>
     <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
     <th><a href="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
-    <th><a href="https://github.com/olenbeton">Timekeeping-Timereg</a></th>
+    <th><a href="https://github.com/olenbetong">Timekeeping-Timereg</a></th>
   </tr>
   <tr>
     <th>Description</th>
