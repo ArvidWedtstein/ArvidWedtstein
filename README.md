@@ -77,27 +77,24 @@
 <table align="center">
   <tr>
     <th>Name</th>
-    <th><a href="https://github.com/ArvidWedtstein/Nuxt-Website">Portfolio</a></th>
-    <th><a href="https://github.com/ArvidWedtstein/Website-API">Portfolio API</a></th>
+    <th><a href="https://github.com/ArvidWedtstein/ArkDashboard">Ark Dashboard</a></th>
     <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
-    <th><a href="https://github.com/ArvidWedtstein/React-Practice-App">React Practice</a></th>
     <th><a href="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
+    <th><a href="https://github.com/olenbeton">Timekeeping-Timereg</a></th>
   </tr>
   <tr>
     <th>Description</th>
-    <td>My portfolio. Lists all my projects and tells a little bit about me</td>
-    <td>Express API for handling projects, reviews and userdata on my portfolio</td>
+    <td>Dashboard that shows Ark Survival Evolved bases, Dino stats calculator and much more</td>
     <td>Upgrading my old discordbot to DiscordJSV13 since discord shut down the DiscordJS-Commando Framework</td>
-    <td>React Practice project for Ølen Betong</td>
     <td>Embed Stats Generator for github</td>
+    <td>Timereg for Ølen Betong</td>
   </tr>
   <tr>
     <th>Languages</th>
-    <td>Nuxt, Vue, JS</td>
-    <td>JS, MongoDB Database</td>
+    <td>RedwoodJS, React, Prisma, PostgreSQL, GraphQL</td>
     <td>JavaScript. (Converting to TypeScript)</td>
-    <td>TSX, React</td>
     <td>Go</td>
+    <td>React, SQL Server, Synergi, Appframe</td>
   </tr>
 </table>
 
