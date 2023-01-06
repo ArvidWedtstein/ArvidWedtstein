@@ -68,19 +68,17 @@
   </tr>
   <tr>
     <th>Beschreibung</th>
-    <td>Mein portfolio. Listet alle meine Projekte auf und erzählt ein wenig über mich</td>
-    <td>Express API für handling von projecten, reviews und benutzerdaten in meinem portfolio</td>
-    <td>Tournament Bracket App für Appex.</td>
-    <td>Upgrade meines alten Discordbot auf DiscordJSV13, da Discord das DiscordJS-Commando Framework heruntergefahren hat</td>
-    <td>Wordpress template für ein Schul Project</td>
-    <td>Embed generator für github</td>
-  </tr>
-  <tr>
-    <th>Sprachen</th>
     <td>Dashboard das daten von Ark Survival Evolved basespots, Dino stats und vieles mehr anzeigt</td>
     <td>Discordbot. Ist zur zeit stillgelegt</td>
     <td>Embed Stats Generator für github</td>
     <td>Timereg system für Ølen Betong</td>
+  </tr>
+  <tr>
+    <th>Sprachen</th>
+    <td>RedwoodJS, React, Prisma, PostgreSQL, GraphQL</td>
+    <td>JavaScript. (Converting to TypeScript)</td>
+    <td>Go</td>
+    <td>React, SQL Server, Synergi, Appframe</td>
   </tr>
 </table>
 <!-- <p align="center">
