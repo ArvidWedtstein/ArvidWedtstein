@@ -1,7 +1,12 @@
 <h1 align="center">Willkommen zu</h1>
+
+<div align="center">
+  
 <img src="icons/arvid.svg">
 
-<h1></h1>
+</div>
+
+#
 
 <table align="center">
   <tr>
@@ -11,18 +16,18 @@
   </tr>
 </table>
 
-<h2 align="center">🌱 Ich lerne zur zeit:</h2>
-<blockquote align="center">
-  <img width="15"src="icons/nuxt.png" /> Nuxt<br>
-  <img width="15"src="icons/typescript.png" /> TypeScript<br>
-  <img width="15"src="icons/go.png" /> Go<br>
-  <img width="15"src="icons/php.png" /> PHP<br>
-  <img width="15"src="icons/wordpress.png" /> Wordpress<br>
-  <img width="15"src="icons/docker.png" /> Docker<br>
-  <img width="15"src="icons/csharp.png" /> C#<br>
-  <img width="15"src="icons/tailwind.png" /> TailwindCSS<br>
-  und vieles mehr
-</blockquote>
+<div align="center">
+![Currently Learning](https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/skills?languages=nuxt,visualbasic,flutter,dart&backgroundcolor=0D1117&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=ffffff&boxcolor=0D1117&bordercolor=0D1117)
+</div>
+
+#
+
+<div align="center">
+<!--  
+![Skills](https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/skills?languages=nuxt,tailwind,sass,javascript,typescript,mongodb,lua,css3,html5,express,bootstrap,github,heroku,netlify,threejs,nodejs,unity,alpinejs,graphql&backgroundcolor=0D1117&title=Skills&titlecolor=ffffff&textcolor=FFFFFF&boxcolor=0D1117&bordercolor=0D1117)
+-->
+</div>
+
 
 
 #### 👀 Ich habe interesse für:
@@ -30,37 +35,35 @@
   Web entwicklung<br>
   3D drucken<br>
   3D modellierung<br>
-  neue technologie<br>
+  neue technologien<br>
 </blockquote>
 
 
 <h2 align="center">📫 Sie können mich erreichen über: </h6>
 <ul align="center">
-  <li align="center">Email - arvidw0310@gmail.com</li>
+  <!--<li align="center">Email - arvidw0310@gmail.com</li>-->
   <li align="center">EmailV2 - spamarvid0310@gmail.com (Längere antworte zeit)</li>
-  <li align="center"><a href="https://nuxtarvidw.netlify.app">Auf meiner website (zür zeit nicht möglich)</a></li>
+  <li align="center"><a href="https://nuxtarvidw.netlify.app">Auf meiner website (zür zeit leider ausser betrieb)</a></li>
 </ul>
 
 
-
+<!--
 <h2 align="center">Ein paar daten über mich:</h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&show_icons=true&count_private=true&bg_color=30,dd3e54,ff5e62,ff9966&title_color=fff&text_color=fff)
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&theme=github_dark&langs_count=10&locale=de&hide_border=false&layout=compact&custom_title=Meine%20Meist%20Gebrauchten%20Sprachen&bg_color=30,dd3e54,ff5e62,ff9966&title_color=fff&text_color=fff&border_color=fff)
-
+-->
 
 <h2 align="center">Meine Projecte</h2>
 
 <table align="center">
   <tr>
     <th>Name</th>
-    <th><a href="https://github.com/ArvidWedtstein/Nuxt-Website">Portfolio</a></th>
-    <th><a href="https://github.com/ArvidWedtstein/Website-API">Portfolio API</a></th>
-    <th><a href="https://github.com/appex/appex-tournaments">Appex Tournament App</a></th>
+    <th><a href="https://github.com/ArvidWedtstein/ArkDashboard">Ark Dashboard</a></th>
     <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
-    <th><a href="https://github.com/ArvidWedtstein/Devco">Wordpress Template</a></th>
-    <th><a hrf="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
+    <th><a href="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
+    <th><a href="https://github.com/olenbetong">Timekeeping-Timereg</a></th>
   </tr>
   <tr>
     <th>Beschreibung</th>
@@ -73,12 +76,10 @@
   </tr>
   <tr>
     <th>Sprachen</th>
-    <td>Nuxt, Vue, JS</td>
-    <td>JS, MongoDB Database</td>
-    <td>C#/DotNet für backend API, Nuxt 3 für frontend, MongoDB Database</td>
-    <td>JavaScript. (Wird konvertiert zu TypeScript)</td>
-    <td>PHP</td>
-    <td>Go</td>
+    <td>Dashboard das daten von Ark Survival Evolved basespots, Dino stats und vieles mehr anzeigt</td>
+    <td>Discordbot. Ist zur zeit stillgelegt</td>
+    <td>Embed Stats Generator für github</td>
+    <td>Timereg system für Ølen Betong</td>
   </tr>
 </table>
 <!-- <p align="center">
@@ -96,5 +97,6 @@
 ## 😂 Zufälliger joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ##
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
 
