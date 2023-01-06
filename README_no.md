@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <th>Beskrivelse</th>
-    <td>Dashboard som viser Ark Survival Evolved basespots, dinosaur stats og mye mer./td>
+    <td>Dashboard som viser Ark Survival Evolved basespots, dinosaur stats og mye mer.</td>
     <td>Discord bot. Mye rart i denne her. Ikke hostet for tiden pga fattig og lite brukt.</td>
     <td>Embed Stats Generator for github</td>
     <td>Fraværssystem for Ølen Betong</td>
