@@ -92,7 +92,6 @@
   </tr>
   <tr>
     <th>Språk</th>
-    <th>Languages</th>
     <td>RedwoodJS, React, Prisma, PostgreSQL, GraphQL</td>
     <td>JavaScript. (Converting to TypeScript)</td>
     <td>Go</td>
