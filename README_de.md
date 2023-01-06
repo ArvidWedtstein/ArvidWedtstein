@@ -31,16 +31,16 @@
 
 
 
-#### 👀 Ich habe interesse für:
-<blockquote align="center">
+<h2 align="center">👀 Ich habe interesse für:</h2>
+<div align="center">
   Web entwicklung<br>
   3D drucken<br>
   3D modellierung<br>
   neue technologien<br>
-</blockquote>
+</div>
 
 
-<h2 align="center">📫 Sie können mich erreichen über: </h6>
+<h2 align="center">📫 Sie können mich erreichen über: </h2>
 <ul align="center">
   <!--<li align="center">Email - arvidw0310@gmail.com</li>-->
   <li align="center">EmailV2 - spamarvid0310@gmail.com (Längere antworte zeit)</li>
