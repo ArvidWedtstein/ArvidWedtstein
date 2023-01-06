@@ -15,7 +15,7 @@
   <tr>
     <td><b><u><a href="README.md">English</a></b></u></td>
     <td><a href="README_no.md">Norwegian</a></td>
-    <!--<td><a href="README_de.md">German</a></td>-->
+    <td><a href="README_de.md">German</a></td>
   </tr>
 </table>
 <!--
