@@ -37,13 +37,13 @@
 
 
 
-#### 👀 Jeg har interesse for:
-<blockquote align="center">
+<h2 align="center">👀 Jeg har interesse for:</h2>
+<div align="center">
   Web Utvikling<br>
   3D Printing<br>
   3D Modelling<br>
   ny teknologi<br>
-</blockquote>
+</div>
 
 
 <h2 align="center">📫 Du kan komme i kontakt med meg på: </h6>
