@@ -44,7 +44,7 @@
 </div>
 
 
-<h2 align="center">📫 How to reach me: </h6>
+<h2 align="center">📫 How to reach me: </h2>
 <ul align="center">
   <!--<li align="center">Email - arvidw0310@gmail.com</li>-->
   <li align="center">
