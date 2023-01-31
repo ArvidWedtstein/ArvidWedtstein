@@ -112,9 +112,14 @@
 
 </div>
 
-
+<!--
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
 
+-->
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/arvidwedtstein/count.svg" />
+</p>
 
 #
