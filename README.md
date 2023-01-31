@@ -51,7 +51,7 @@
   <li align="center">
     <details>
       <summary><b>Email</b></summary>
-      EmailV2 - spamarvid0310@gmail.com (Longer response time)
+      <!--EmailV2 - spamarvid0310@gmail.com (Longer response time)-->
     </details>
   </li>
   <li align="center"><a href="https://arvidw.space">On my website (currently not possible)</a></li>
