@@ -22,7 +22,7 @@
 
 <!--  
 <div align="center">
-
+---
 ![Currently Learning](https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/skills?languages=nuxt,visualbasic,flutter,dart&backgroundcolor=0D1117&title=I%20am%20currently%20learning&titlecolor=ffffff&textcolor=ffffff&boxcolor=0D1117&bordercolor=0D1117)
 
 </div>
