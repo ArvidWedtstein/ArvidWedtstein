@@ -30,7 +30,7 @@
 
 <!--  
 <div align="center">
-
+--
 ![Skills](https://githubembedapic8cwxr2w-ubuntu2.functions.fnc.fr-par.scw.cloud/skills?languages=nuxt,tailwind,sass,javascript,typescript,mongodb,lua,css3,html5,express,bootstrap,github,heroku,netlify,threejs,nodejs,unity,alpinejs,graphql&backgroundcolor=0D1117&title=Skills&titlecolor=ffffff&textcolor=FFFFFF&boxcolor=0D1117&bordercolor=0D1117)
 
 </div>
