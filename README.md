@@ -110,7 +110,7 @@
 
 <!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
 
-[stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&layout=compact&langs_count=20&hide_border=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000&custom_title=Yes%20Code%20Maek%20Beep%20Boop)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&layout=compact&langs_count=20&hide_border=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000&custom_title=Yes%20Code%20Maek%20Beep%20Boop)
 
 </div>
 
