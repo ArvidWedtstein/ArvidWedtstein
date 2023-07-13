@@ -81,21 +81,18 @@
     <th><a href="https://github.com/ArvidWedtstein/ArkDashboard">Ark Dashboard</a></th>
     <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
     <th><a href="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
-    <th><a href="https://github.com/olenbetong">Timekeeping-Timereg</a></th>
   </tr>
   <tr>
     <th>Beskrivelse</th>
     <td>Dashboard som viser Ark Survival Evolved basespots, dinosaur stats og mye mer.</td>
     <td>Discord bot. Mye rart i denne her. Ikke hostet for tiden pga fattig og lite brukt.</td>
     <td>Embed Stats Generator for github</td>
-    <td>Fraværssystem for Ølen Betong</td>
   </tr>
   <tr>
     <th>Språk</th>
     <td>RedwoodJS, React, Prisma, PostgreSQL, GraphQL</td>
     <td>JavaScript. (Converting to TypeScript)</td>
     <td>Go</td>
-    <td>React, SQL Server, Synergi, Appframe</td>
   </tr>
 </table>
 
