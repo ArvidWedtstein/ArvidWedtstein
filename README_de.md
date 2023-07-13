@@ -64,21 +64,18 @@
     <th><a href="https://github.com/ArvidWedtstein/ArkDashboard">Ark Dashboard</a></th>
     <th><a href="https://github.com/ArvidWedtstein/DiscordbotV13">Discordbot</a></th>
     <th><a href="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
-    <th><a href="https://github.com/olenbetong">Timekeeping-Timereg</a></th>
   </tr>
   <tr>
     <th>Beschreibung</th>
     <td>Dashboard das daten von Ark Survival Evolved basespots, Dino stats und vieles mehr anzeigt</td>
     <td>Discordbot. Ist zur zeit stillgelegt</td>
     <td>Embed Stats Generator für github</td>
-    <td>Timereg system für Ølen Betong</td>
   </tr>
   <tr>
     <th>Sprachen</th>
     <td>RedwoodJS, React, Prisma, PostgreSQL, GraphQL</td>
     <td>JavaScript. (Converting to TypeScript)</td>
     <td>Go</td>
-    <td>React, SQL Server, Synergi, Appframe</td>
   </tr>
 </table>
 <!-- <p align="center">
