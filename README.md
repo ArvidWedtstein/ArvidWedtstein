@@ -77,7 +77,7 @@
   <tr>
     <th>Name</th>
     <th><a href="https://github.com/ArvidWedtstein/ArkDashboard">Ark Dashboard</a></th>
-    <th><a href="https://github.com/ArvidWedtstein/OmegaDocs">Omega Docs</a></th>
+    <th><a href="https://github.com/ArvidWedtstein/Omega-Docs">Omega Docs</a></th>
     <th><a href="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
   </tr>
   <tr>
