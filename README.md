@@ -41,14 +41,14 @@
   Web Development<br>
   3D Printing<br>
   3D Modelling<br>
-  New technology<br>
+  Fagbrev 😎<br>
 </div>
 
 
 <h2 align="center">📫 How to reach me: </h2>
 <ul align="center">
   <li align="center">Email - spamarvid0310@gmail.com</li>
-  <li align="center"><a href="https://arvidw.space">On my website (currently not possible)</a></li>
+  <li align="center"><a href="https://nuxtarvidw.netlify.app">On my website (currently not possible)</a></li>
 </ul>
 
 
