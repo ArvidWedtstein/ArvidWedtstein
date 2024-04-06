@@ -38,12 +38,13 @@
 
 <h2 align="center">👀 I’m interested in:</h2>
 <div align="center">
-  <ul>
-    <li>Web Development</li>
-    <li>3D Printing</li>
-    <li>3D Modelling</li>
-    <li>Fagbrev 😎</li>
-  </ul>
+  <samp>Web Development</samp>
+  <br>
+  <samp>3D Printing</samp>
+  <br>
+  <samp>3D Modelling</samp>
+  <br>
+  <samp>Fagbrev 😎</samp>
 </div>
 
 
