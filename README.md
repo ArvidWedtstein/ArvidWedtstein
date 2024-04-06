@@ -47,13 +47,7 @@
 
 <h2 align="center">📫 How to reach me: </h2>
 <ul align="center">
-  <!--<li align="center">Email - arvidw0310@gmail.com</li>-->
-  <li align="center">
-    <details>
-      <summary><b>Email</b></summary>
-      <!--EmailV2 - spamarvid0310@gmail.com (Longer response time)-->
-    </details>
-  </li>
+  <li align="center">Email - spamarvid0310@gmail.com</li>
   <li align="center"><a href="https://arvidw.space">On my website (currently not possible)</a></li>
 </ul>
 
