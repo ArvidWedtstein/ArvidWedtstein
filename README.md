@@ -9,7 +9,6 @@
 
 #
 
-
 <p align="center">My profile is available in:</p>
 <table align="center">
   <tr>
@@ -46,7 +45,6 @@
   <br>
   <samp>Fagbrev 😎</samp>
 </div>
-
 
 <h2 align="center">📫 How to reach me: </h2>
 <ul align="center">
