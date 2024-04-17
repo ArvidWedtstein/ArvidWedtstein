@@ -101,8 +101,11 @@
 
 </div>
 <div align="center">
+<h3 align="center">Im currently listening too:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&redirect=true)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&redirect=true" target="_blank">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" />
+</a>
 
 </div>
 <!--
