@@ -100,14 +100,23 @@
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&layout=compact&langs_count=20&hide_border=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000&custom_title=Yes%20Code%20Maek%20Beep%20Boop)
 
 </div>
+
 <div align="center">
-<h3 align="center">Im currently listening too:</h3>
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&redirect=true" target="_blank">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" />
-</a>
-
+  <h3 align="center">Im currently listening too:</h3>
+  
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" />
+  </a>
 </div>
+
+<div align="center">
+  <h3 align="center">Trophies</h3>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=ArvidWedtstein&theme=onedark&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" align="center" />
+</div>
+
+
+
 <!--
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
@@ -117,8 +126,6 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/arvidwedtstein/count.svg" />
 </p>
-
-<img src="https://profile-counter.glitch.me/arvidwedtstein/count.svg" />
 
 
 #
