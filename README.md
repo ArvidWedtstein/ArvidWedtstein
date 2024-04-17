@@ -42,8 +42,6 @@
   <samp>3D Printing</samp>
   <br>
   <samp>3D Modelling</samp>
-  <br>
-  <samp>Fagbrev 😎</samp>
 </div>
 
 <h2 align="center">📫 How to reach me: </h2>
