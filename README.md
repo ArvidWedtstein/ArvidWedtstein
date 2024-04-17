@@ -1,4 +1,3 @@
-
 <h1 align="center">Welcome to</h1>
 
 <div align="center">
@@ -98,12 +97,14 @@
 
 <div align="center">
 
-
-
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&layout=compact&langs_count=20&hide_border=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000&custom_title=Yes%20Code%20Maek%20Beep%20Boop)
 
 </div>
+<div align="center">
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&redirect=true)
+
+</div>
 <!--
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arvidwedtstein)
