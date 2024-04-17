@@ -118,7 +118,7 @@
   <img src="https://profile-counter.glitch.me/arvidwedtstein/count.svg" />
 </p>
 
-<img src="[https://profile-counter.glitch.me/arvidwedtstein/count.svg](https://github-profile-trophy.vercel.app/?username=ArvidWedtstein&theme=onedark)" />
+<img src="https://profile-counter.glitch.me/arvidwedtstein/count.svg" />
 
 
 #
