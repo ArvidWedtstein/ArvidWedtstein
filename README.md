@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to&font=Fira%20Code&center=true&color=ffffff&width=380&height=50&duration=4000" alt="Welcome to">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to&font=Fira%20Code&center=true&color=ffffff&width=380&height=50&duration=4000&repeat=false" alt="Welcome to">
 </h1>
 
 <div align="center">
