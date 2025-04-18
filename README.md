@@ -103,14 +103,6 @@
 </div>
 
 <div align="center">
-  <h3 align="center">Im currently listening too:</h3>
-  
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=bassgamer0310&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" />
-  </a>
-</div>
-
-<div align="center">
   <h3 align="center">Trophies</h3>
   
   <img src="https://github-profile-trophy.vercel.app/?username=ArvidWedtstein&theme=dark_lover&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" align="center" />
