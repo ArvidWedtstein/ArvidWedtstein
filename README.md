@@ -81,19 +81,19 @@
   <tr>
     <th>Name</th>
     <th><a href="https://github.com/ArvidWedtstein/ArkDashboard">Ark Dashboard</a></th>
-    <th><a href="https://github.com/ArvidWedtstein/Omega-Docs">Omega Docs</a></th>
+    <th><a href="https://github.com/ArvidWedtstein/VehicleHub">Vehicle Hub</a></th>
     <th><a href="https://github.com/ArvidWedtstein/github-embed-generator">Github Embed Generator</a></th>
   </tr>
   <tr>
     <th>Description</th>
     <td>Dashboard that shows Ark Survival Evolved bases, Dino stats calculator and much more</td>
-    <td>Replacement for Omegas non existing docs on NT framework</td>
+    <td>Dashboard for keeping track of expenses, service records and more</td>
     <td>Embed Stats Generator for github</td>
   </tr>
   <tr>
     <th>Languages</th>
     <td>RedwoodJS, React, Prisma, PostgreSQL, GraphQL</td>
-    <td>Vue</td>
+    <td>Vue, Supabase, DaisyUI</td>
     <td>Go</td>
   </tr>
 </table>
