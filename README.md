@@ -98,7 +98,7 @@
   </tr>
 </table>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvidwedtstein&layout=compact&langs_count=20&hide_border=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000&custom_title=Yes%20Code%20Maek%20Beep%20Boop" />
 </div>
 
@@ -106,7 +106,7 @@
   <h3 align="center">Trophies</h3>
   
   <img src="https://github-profile-trophy.vercel.app/?username=ArvidWedtstein&theme=dark_lover&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" align="center" />
-</div>
+</div>-->
 
 
 
@@ -116,9 +116,9 @@
 
 -->
 
-<p align="center"> 
+<!--<p align="center"> 
   <img src="https://profile-counter.glitch.me/arvidwedtstein/count.svg" />
-</p>
+</p>-->
 
 
 #
