@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to&font=Fira%20Code&center=true&color=ffffff&width=380&height=50&duration=4000&repeat=false" alt="Welcome to">
 </h1>
 
-<div align="center">
+<!--<div align="center">
   <img src="icons/fan.gif" alt="Fan" align="center">
-</div>
+</div>-->
 
 <div align="center">
   
