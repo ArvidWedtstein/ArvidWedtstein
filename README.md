@@ -53,7 +53,7 @@
 <h2 align="center">📫 How to reach me: </h2>
 <ul align="center">
   <li align="center">Email - spamarvid0310@gmail.com</li>
-  <li align="center"><a href="https://www.linkedin.com/in/arvid-wedtstein-7498a21b7/">Linkedin</a>
+  <li align="center"><a href="https://www.linkedin.com/in/arvid-wedtstein-7498a21b7/">Linkedin</a></li>
   <!--<li align="center"><a href="https://nuxtarvidw.netlify.app">On my website (currently not possible)</a></li>-->
 </ul>
 
